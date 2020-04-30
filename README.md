@@ -125,3 +125,10 @@ const App = (props) => {
 <br>
 <img src="https://scotch-res.cloudinary.com/image/upload/dpr_3,w_300,q_auto:good,f_auto/v1557940680/m0jd7trvsgz2lco6o9um.png" height=300 width=350> 
 <br>
+<ol>
+ <li>📙 &nbsp; src - all our source code</li>
+ <li>📙 &nbsp; public - all our static files (i.e index.html {our SPA} and images)</li>
+ <li>📙 &nbsp; node_modules - all our project dependencies</li>
+ <li>📙 &nbsp; package.json - all our project dependencies and configues our project</li>
+ <li>📙 &nbsp; package.lock.json - records the exact version of the packages we install</li>
+</ol>
