@@ -4,7 +4,6 @@
 
 🌀 &nbsp; React is a javascript library <br>
 🌀 &nbsp; React's ultimate purpose is to show content(HTML) to users and handle user interaction (takes care of the V in MVC) <br>
-🌀 &nbsp;  <br>
 
 <br>
 <br>
@@ -19,9 +18,15 @@
 - instead of making a request and getting a new HTML document, we stay on one HTML/DOM and focus on Javascript updates. We can render new things without even communicating with the server anymore. 
 <br>
 
-### Key Concepts
-🌀 &nbsp; Don't touch the DOM <br>
-- 
+<h3> Key Concepts </h3>
+<br> 
+🌀 &nbsp; Don't touch the DOM 
+- React will do it (declarative)
+- Imperative - directly changing individual parts of your application in response to user events. It's difficult to see relationships between these events and edge cases
+- Declarative - consider these two operations
+  - change the element and add it to the page
+  - recalculate the layout and move things around 
+  
 
 <br>
 <br>
