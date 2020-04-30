@@ -38,6 +38,25 @@
     </ol>
 </ul
 <br>
+🌀 &nbsp; Build websites like lego blocks
+ <ul>
+  <li>Reusable components - components are just functions that receive 'state' and return <em>JSX</em></li>
+ </ul>
+ 
+```javascript
+// state example
+state = {
+ user: Kyle
+ isLoggedIn: true
+}
+```
+ 
+```javascript
+// component example
+const App = (props) => {
+ return JSX
+}
+```
 <br>
 
 ## Component
