@@ -49,7 +49,7 @@
  <br> 
  <br>
  <br>
- <img src="https://www.techdiagonal.com/wp-content/uploads/2019/08/React-components-blog-image.jpg" height=350 width=200> 
+ <img src="https://www.techdiagonal.com/wp-content/uploads/2019/08/React-components-blog-image.jpg" height=350 width=350> 
   <br>
  <ul>
   <li>Reusable components - components are just functions that receive 'state' and return <em>JSX</em></li>
