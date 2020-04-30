@@ -81,11 +81,10 @@ const App = (props) => {
 </ul>
 
 <br>
-🌀 &nbsp; One way data flow
+🌀 &nbsp; We are only in charge of the UI
 <br> 
 <br>
 <ul>
- <li>We are only in charge of the UI</li>
  <li>Our React app is a blueprint. We can implement it to the web, a mobile, etc. React only has to know the views of the mobile and it can render our app there as well.</li>
 </ul>
 <br>
