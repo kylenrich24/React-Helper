@@ -5,7 +5,7 @@
 🌀 &nbsp; React's ultimate purpose is to show content(HTML) to users and handle user interaction<br>
 🌀 &nbsp; React on its own isn't a MVC framework; it can be a component of it together with other frameworks, <br>
 <br>
- <img src="https://hackernoon.com/hn-images/1*xa9A0wBaUIfPF57VIo23nA.png" height=200 width=350> 
+ <img src="https://hackernoon.com/hn-images/1*xa9A0wBaUIfPF57VIo23nA.png" height=260 width=350> 
   <br>
 
 <br>
