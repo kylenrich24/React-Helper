@@ -22,6 +22,7 @@
 <br> 
 🌀 &nbsp; Don't touch the DOM 
 <br>
+<br> 
 <ul>
   <li> React will do it (declarative) </li>
   <br>
@@ -45,6 +46,7 @@
   <br>
 <br>
 🌀 &nbsp; Build websites like lego blocks
+ <br> 
  <br>
  <ul>
   <li>Reusable components - components are just functions that receive 'state' and return <em>JSX</em></li>
@@ -66,6 +68,7 @@ const App = (props) => {
 ```
 <br>
 🌀 &nbsp; One way data flow
+<br> 
 <br>
 <ul>
  <li>React has 2 parts: state & component</li>
@@ -76,6 +79,7 @@ const App = (props) => {
 
 <br>
 🌀 &nbsp; One way data flow
+<br> 
 <br>
 <ul>
  <li>We are only in charge of the UI</li>
