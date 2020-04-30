@@ -11,7 +11,7 @@
 <h2> React Key Concepts </h2>
 <br>
 <h3> The Birth of React </h3>
-<h4> JQuery <h4>
+<h4> JQuery </h4>
  Allows for manipulation of DOM through Javascript
  Traditonally, we used to have HTML after HTML for every single page in an application <br>
 <h4> SPA </h4>
