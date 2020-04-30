@@ -104,7 +104,7 @@ const App = (props) => {
  <li>Open cmd and generate a new react app</li>
 <ol>
 
-```bash
+```batchfile
 npm create-react-app myFirstApp
 ```
 
