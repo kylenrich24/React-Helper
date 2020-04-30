@@ -101,7 +101,7 @@ const App = (props) => {
 ## Let's Dive In!
 <ol>
  <li>Install Node Js https://nodejs.org/en/</li>
- <li>Open cmd and generate a new react app &nbsp;&nbsp; <em>npx-create-react-app myApp</em></li>
+ <li>Open cmd and generate a new react app &nbsp;&nbsp; <em>npx create-react-app myApp</em></li>
  <li>Run <em>npm start</em> to start the app</li>
 </ol>
 
