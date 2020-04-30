@@ -85,7 +85,7 @@ const App = (props) => {
 <br> 
 <br>
 <ul>
- <li>Our React app is a blueprint. We can implement it to the web, a mobile, etc. React only has to know the views of the mobile and it can render our app there as well.</li>
+ <li>Our React app is a blueprint. We can implement it to the web, mobile, etc. React only has to know the views of the mobile and it can render our app there as well.</li>
 </ul>
 <br>
  <img src="https://res.infoq.com/articles/react-native-introduction/en/resources/21.jpg" height=200 width=350> 
