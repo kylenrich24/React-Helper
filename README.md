@@ -137,7 +137,7 @@ const App = (props) => {
 <br>
 <h2> Let's Start Coding!</h2>
 <br>
-#### Javascript Module Systems
+<h4>Javascript Module Systems</h4>
 This is made possible by webpack. Codes inside a module isn't going to be automatically shared or made available to other modules and vice versa. If we want to get access to other modules, we have to use an import statement-an ES2015 feature.
 
 <br>
