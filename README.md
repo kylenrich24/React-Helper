@@ -24,6 +24,7 @@
 🌀 &nbsp; Don't touch the DOM 
 <ul>
   <li> React will do it (declarative) </li>
+ <img src="https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2018/11/lnrn_0201.png?ssl=1" height=200 width=350> 
   <li> Imperative - directly changing individual parts of your application in response to user events. It's difficult to see      relationships between these events and edge cases </li>
   <li>Declarative - consider these two operations:</li>
     <ol>
@@ -57,6 +58,15 @@ const App = (props) => {
  return JSX
 }
 ```
+<br>
+🌀 &nbsp; One way data flow
+<ul>
+ <li>React has 2 parts: state & component</li>
+ <li> It creates a virtual DOM using these 2 </li>
+ <li> Every time we want to update the DOM, the state of our app has to change</li>
+ <li> Data only moves down from the state of our application </li>
+</ul>
+
 <br>
 
 ## Component
