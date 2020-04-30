@@ -103,14 +103,17 @@ const App = (props) => {
  <li>Install Node Js https://nodejs.org/en/</li>
  <li>Open cmd and generate a new react app</li>
 <ol>
-<br>
-<img src="https://i.ytimg.com/vi/A4swyDR45SY/maxresdefault.jpg" height=200 width=350> 
-<br>
+ 
 ```sh
  $ node -v
  $ v12.16.1
  $ npm create-react-app myFirstApp
 ```
+
+<br>
+<img src="https://i.ytimg.com/vi/A4swyDR45SY/maxresdefault.jpg" height=200 width=350> 
+<br>
+
 <br>
 <ul>
  <li>Babel - coverts latest versions of ES (React uses this) to ES5 (browsers support this)</li>
