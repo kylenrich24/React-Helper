@@ -122,5 +122,5 @@ const App = (props) => {
 <br>
  <h3>Exploring a Create-React-App-Project</h3>
  <br>
-<img src="https://scotch-res.cloudinary.com/image/upload/dpr_3,w_300,q_auto:good,f_auto/v1557940680/m0jd7trvsgz2lco6o9um.png" height=200 width=350> 
+<img src="https://scotch-res.cloudinary.com/image/upload/dpr_3,w_300,q_auto:good,f_auto/v1557940680/m0jd7trvsgz2lco6o9um.png" height=300 width=350> 
 <br>
