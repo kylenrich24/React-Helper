@@ -24,7 +24,9 @@
 🌀 &nbsp; Don't touch the DOM 
 <ul>
   <li> React will do it (declarative) </li>
+  <br>
  <img src="https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2018/11/lnrn_0201.png?ssl=1" height=200 width=350> 
+  <br>
   <li> Imperative - directly changing individual parts of your application in response to user events. It's difficult to see      relationships between these events and edge cases </li>
   <li>Declarative - consider these two operations:</li>
     <ol>
