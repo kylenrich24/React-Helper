@@ -40,6 +40,9 @@
      <li> based on the 'state' of the app, I will <em>REACT</em> to it </li>
     </ol>
 </ul
+ <br>
+ <img src="https://www.systango.com/blog/wp-content/uploads/2017/05/img_2-1024x613.png" height=200 width=350> 
+  <br>
 <br>
 🌀 &nbsp; Build websites like lego blocks
  <ul>
