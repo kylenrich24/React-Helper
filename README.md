@@ -2,7 +2,11 @@
 
 <img src="https://sunscrapers.com/blog/wp-content/uploads/2018/11/1__DOHv30w-0eI-Ysz5U47Yg.png" height=500 width=900>
 🌀 &nbsp; React is a javascript library <br>
-🌀 &nbsp; React's ultimate purpose is to show content(HTML) to users and handle user interaction (takes care of the V in MVC) <br>
+🌀 &nbsp; React's ultimate purpose is to show content(HTML) to users and handle user interaction<br>
+🌀 &nbsp; React on its own isn't a MVC framework; it can be a component of it together with other frameworks, <br>
+<br>
+ <img src="https://hackernoon.com/hn-images/1*xa9A0wBaUIfPF57VIo23nA.png" height=200 width=350> 
+  <br>
 
 <br>
 <br>
@@ -19,6 +23,7 @@
 <br>
 
 <h3> Key Concepts </h3>
+
 <br> 
 🌀 &nbsp; Don't touch the DOM 
 <br>
