@@ -1,7 +1,6 @@
 # 🌀 React-Helper 🌀
 
 <img src="https://sunscrapers.com/blog/wp-content/uploads/2018/11/1__DOHv30w-0eI-Ysz5U47Yg.png" height=500 width=900>
-
 🌀 &nbsp; React is a javascript library <br>
 🌀 &nbsp; React's ultimate purpose is to show content(HTML) to users and handle user interaction (takes care of the V in MVC) <br>
 
@@ -22,6 +21,7 @@
 <h3> Key Concepts </h3>
 <br> 
 🌀 &nbsp; Don't touch the DOM 
+<br>
 <ul>
   <li> React will do it (declarative) </li>
   <br>
@@ -45,6 +45,7 @@
   <br>
 <br>
 🌀 &nbsp; Build websites like lego blocks
+ <br>
  <ul>
   <li>Reusable components - components are just functions that receive 'state' and return <em>JSX</em></li>
  </ul>
@@ -65,12 +66,24 @@ const App = (props) => {
 ```
 <br>
 🌀 &nbsp; One way data flow
+<br>
 <ul>
  <li>React has 2 parts: state & component</li>
  <li> It creates a virtual DOM using these 2 </li>
  <li> Every time we want to update the DOM, the state of our app has to change</li>
  <li> Data only moves down from the state of our application </li>
 </ul>
+
+<br>
+🌀 &nbsp; One way data flow
+<br>
+<ul>
+ <li>We are only in charge of the UI</li>
+ <li>Our React app is a blueprint. We can implement it to the web, a mobile, etc. React only has to know the views of the mobile and it can render our app there as well.</li>
+</ul>
+<br>
+ <img src="https://res.infoq.com/articles/react-native-introduction/en/resources/21.jpg" height=200 width=350> 
+<br>
 
 <br>
 
