@@ -12,11 +12,11 @@
 <br>
 <h3> The Birth of React </h3>
 <h4> JQuery </h4>
- Allows for manipulation of DOM through Javascript
+ Allows for manipulation of DOM through Javascript<br>
  Traditonally, we used to have HTML after HTML for every single page in an application <br>
 <h4> SPA </h4>
- we now focus more on Javascript and less on HTML (data > page)
- instead of making a request and getting a new HTML document, we stay on one HTML/DOM and focus on Javascript updates. We can render new things without even communicating with the server anymore. 
+ We now focus more on Javascript and less on HTML (data > page) <br>
+ Instead of making a request and getting a new HTML document, we stay on one HTML/DOM and focus on Javascript updates. We can render new things without even communicating with the server anymore. 
 <br>
 
 <h3> Key Concepts </h3>
