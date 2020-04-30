@@ -132,3 +132,28 @@ const App = (props) => {
  <li>📙 &nbsp; package.json - all our project dependencies and configues our project</li>
  <li>📙 &nbsp; package.lock.json - records the exact version of the packages we install</li>
 </ul>
+
+<br>
+<br>
+## Let's Start Coding!
+
+### Javascript Module Systems
+This is made possible by webpack. Codes inside a module isn't going to be automatically shared or made available to other modules and vice versa. If we want to get access to other modules, we have to use an import statement-an ES2015 feature.
+
+<br>
+
+index.html
+
+```jsx
+// import react and reactdom
+import React from 'react'; // components
+import ReactDOM from 'react-dom'; // view in the DOM
+
+// create a react component
+const App = () => {
+ return <div>Hi There!</div>;
+}
+
+// take the react component and show it on the screen 
+ReactDOM.render(<App/>, document.querySelector('#root')); // inject our component to public/index.html
+```
