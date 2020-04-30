@@ -25,12 +25,12 @@
 <ul>
   <li> React will do it (declarative) </li>
   <li> Imperative - directly changing individual parts of your application in response to user events. It's difficult to see      relationships between these events and edge cases </li>
-  <li>Declarative - consider these two operations</li>
+  <li>Declarative - consider these two operations:</li>
     <ol>
      <li> change the element and add it to the page </li>
      <li> recalculate the layout and move things around </li>
     </ol>
-  <li>just tell react what you want your app to look like and it will take care of it </li>
+  <li>Just tell react what you want your app to look like and it will take care of it </li>
     <ol>
       <li>i.e this is the 'state' of the app when the button is clicked </li>
       <li> all the states is in one JS object </li>
