@@ -8,12 +8,12 @@
 <br>
 <br>
 
-## React Key Concepts
+<h2> React Key Concepts </h2>
 <br>
-### The Birth of React
+<h3> The Birth of React </h3>
 - JQuery - allows for manipulation of DOM through Javascript
 - Traditonally, we used to have HTML after HTML for every single page in an application <br>
-#### SPA
+<h4> SPA </h4>
 - we now focus more on Javascript and less on HTML (data > page)
 - instead of making a request and getting a new HTML document, we stay on one HTML/DOM and focus on Javascript updates. We can render new things without even communicating with the server anymore. 
 <br>
@@ -21,13 +21,21 @@
 <h3> Key Concepts </h3>
 <br> 
 🌀 &nbsp; Don't touch the DOM 
-- React will do it (declarative)
-- Imperative - directly changing individual parts of your application in response to user events. It's difficult to see relationships between these events and edge cases
-- Declarative - consider these two operations
-  - change the element and add it to the page
-  - recalculate the layout and move things around 
-  
-
+<ul>
+  <li> React will do it (declarative) </li>
+  <li> Imperative - directly changing individual parts of your application in response to user events. It's difficult to see      relationships between these events and edge cases </li>
+  <li>Declarative - consider these two operations</li>
+    <ol>
+     <li> change the element and add it to the page </li>
+     <li> recalculate the layout and move things around </li>
+    </ol>
+  <li>just tell react what you want your app to look like and it will take care of it </li>
+    <ol>
+      <li>i.e this is the 'state' of the app when the button is clicked </li>
+      <li> all the states is in one JS object </li>
+     <li> based on the 'state' of the app, I will <em>REACT</em> to it </li>
+    </ol>
+</ul
 <br>
 <br>
 
