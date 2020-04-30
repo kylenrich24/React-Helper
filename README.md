@@ -119,3 +119,8 @@ const App = (props) => {
  <li>Babel - coverts latest versions of ES (React uses this) to ES5 (browsers support this)</li>
  <li>Webpack - our React app is essentially just modules of mostly Javascript with some HTML and CSS. Webpack bundles all of this.</li>
 <ul>
+<br>
+ <h3>Exploring a Create-React-App-Project</h3>
+ <br>
+<img src="https://scotch-res.cloudinary.com/image/upload/dpr_3,w_300,q_auto:good,f_auto/v1557940680/m0jd7trvsgz2lco6o9um.png" height=200 width=350> 
+<br>
