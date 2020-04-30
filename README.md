@@ -98,8 +98,13 @@ const App = (props) => {
 
 <br>
 
-## Component
-<br>
-🌀 &nbsp; Used to create HTML, have it show up in the screen and react to user's inputs
-🌀 &nbsp; We create HTML via JSX, JSX determines the content of our React App
+## Let's Dive In!
+<ol>
+ <li>Install Node Js https://nodejs.org/en/</li>
+ <li>Open cmd and generate a new react app</li>
+<ol>
+
+```bash
+npm create-react-app myFirstApp
+```
 
